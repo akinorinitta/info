@@ -14,6 +14,7 @@ In order to say that I like what I like, ...
 ## character
 ### MBTI
 - [INFT](https://www.16personalities.com/infp-personality)
+
 ### STRENGTHS FINDER
 1. Futuristic
 2. Individualization
